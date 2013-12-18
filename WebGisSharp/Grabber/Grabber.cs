@@ -12,6 +12,7 @@ namespace Grabber
     {
         IEnumerable<Memorial> Grab()
         {
+            // I did some changes
             throw new NotImplementedException();
         }
     }
